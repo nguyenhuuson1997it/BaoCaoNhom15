@@ -1,0 +1,35 @@
+#frm_Preview{
+    background:#ececec;
+    padding-bottom: 50px;
+}
+#fImage_Add{
+    display: none;
+}
+#fImage_Add_Detail{
+    display: none;
+}
+#frm_Show_Preview{
+
+}
+#frm_Show_Preview_Detail{
+
+}
+.Image_Preview_Detail{
+    width: 135px;
+    height: 135px;
+    float:  left;
+    margin-right: 5px;
+}
+.Image_Preview_Detail img{
+    width: 135px;
+    height: 135px;
+    float:  left;
+    margin-right: 5px;
+    border-radius: 10px;
+    border:1px solid black;
+}
+.Image_Preview_Detail .icon_del{
+    position: relative;
+    top:-135px;
+    left:105px;
+}
